@@ -8,6 +8,7 @@ int main(){
    a=a+b;
    b=a-b;
    a=a-b;
+   c=a*b;
    printf("number after swapping a: %d and b:%d\n", a,b);
    }
 
